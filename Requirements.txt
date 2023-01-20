@@ -1,4 +1,4 @@
-coinmarketcap
+coinmarketcapapi
 binance
 pandas
 streamlit
