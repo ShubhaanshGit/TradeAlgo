@@ -1,5 +1,0 @@
-coinmarketcapapi
-binance
-pandas
-streamlit
-warnings
