@@ -1,0 +1,5 @@
+coinmarketcapaip
+binance
+pandas
+streamlit
+warnings
